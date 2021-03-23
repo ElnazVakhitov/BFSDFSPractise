@@ -1,0 +1,7 @@
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\bin\Debug\Поиски в ширину и глубину.exe.config
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\bin\Debug\Поиски в ширину и глубину.exe
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\bin\Debug\Поиски в ширину и глубину.pdb
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\obj\Debug\Поиски в ширину и глубину.csprojAssemblyReference.cache
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\obj\Debug\Поиски в ширину и глубину.csproj.CoreCompileInputs.cache
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\obj\Debug\Поиски в ширину и глубину.exe
+C:\Users\Эльназ\source\repos\Поиски в ширину и глубину\obj\Debug\Поиски в ширину и глубину.pdb
